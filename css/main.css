@@ -141,11 +141,14 @@ nav ul li a {
   padding: 0 10px 0 115px;
 }
 
-#contact a {
+#contact a, #contact a img {
   color: #C49075;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 28px;
   text-decoration: none;
+  border: none;
+  width: 50px;
+  height: auto;
 }
 
 #contact h2 {
